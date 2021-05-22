@@ -1,6 +1,6 @@
 <img src="https://lh3.googleusercontent.com/NmzwWOKirmtgBzWkqrvTYn94TmIG-9i8Apuqfivzps4liwbAH7fEkl8HQ2-SusQNuvLcyQHnn3NswbHZT14-Z6sbDQ=w640-h400-e365-rj-sc0x00ffffff">
 
-A simple and elegant code editor, Quantum is a beautiful material design code editor based off of [atom](https://atom.io/) and [sublime text](https://www.sublimetext.com/). By extracting the most important features and adding our own spice, Quantum leaves behind the unnecessary clutter and provides you with a clean and rich code editing experience.
+A simple and elegant chromium app, Quantum is a beautiful material design text editor and code editor based off of [atom](https://atom.io/) and [sublime text](https://www.sublimetext.com/). By extracting the most important features and adding our own spice, Quantum leaves behind the unnecessary clutter and provides you with a clean and rich code editing experience.
 
 ## Features
 ### Projects
