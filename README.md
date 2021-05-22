@@ -1,4 +1,4 @@
-[<img src="https://dl2.pushbulletusercontent.com/q1AYW5ct2GYEeiv7DcxK6m0CfR2ra2fS/Untitled-3.png">](https://chrome.google.com/webstore/detail/quantum/hmnlklahndgbhdoclhdnoafhafbhmnkm)
+<img src="https://lh3.googleusercontent.com/NmzwWOKirmtgBzWkqrvTYn94TmIG-9i8Apuqfivzps4liwbAH7fEkl8HQ2-SusQNuvLcyQHnn3NswbHZT14-Z6sbDQ=w640-h400-e365-rj-sc0x00ffffff">
 
 A simple and elegant code editor, Quantum is a beautiful material design code editor based off of [atom](https://atom.io/) and [sublime text](https://www.sublimetext.com/). By extracting the most important features and adding our own spice, Quantum leaves behind the unnecessary clutter and provides you with a clean and rich code editing experience.
 
@@ -8,16 +8,16 @@ Definitely one of the more prominent features available in Quantum is the abilit
 ### Tabs
 Quantum allows users to open, close, and sort as many tabs as they so desire. Users can also rename their documents by clicking on the title in the tab and using the keyboard to type in a different name.
 ### Libraries
-<img src="https://dl2.pushbulletusercontent.com/y4OvqQhBtUNJWf6JA9Dgon5V0xZn3n8H/libraries.png">
+<img src="https://lh3.googleusercontent.com/0xzdupvqmpxKxVQwpS_kG7GFdVQn7-P1M0nE5Rty356LvkoBPPkOFqNA479eJ-iVzZtvGE3-z9wYMAxEv6AEvIsGQA=w640-h400-e365-rj-sc0x00ffffff">
 
 A unique feature to Quantum is the ability to add popular open-source libraries to the current folder directly from the settings panel. Simply select one and, assuming you have an internet connection, Quantum will get the file from the cdnjs.com.
 ### Search
 
-<img src="https://dl2.pushbulletusercontent.com/AUgbhemQdWUQowndx4a7UNflvoRbdAT9/screenshot-5.png">
+<img src="https://lh3.googleusercontent.com/MnnECzu97eGtrXI0249jzExL91OAAvV5UAbrc7unbt-6xBBIdVZFt-eqsPVqOSskX7Cw-BH3rwyhss6fctwuX6yOHss=w640-h400-e365-rj-sc0x00ffffff">
 
 Full search and replace is already built-in to Quantum out of the box. Type in your search and Quantum scrolls to the first found text that matches your search or highlights your search red if no match has been found. Users can replace text one by one or all at once.
 ### Settings
-<img src="https://dl2.pushbulletusercontent.com/zAyXymocFH4Lpts56izjZ8uweJehJno7/screenshot-3.png">
+<img src="https://lh3.googleusercontent.com/YciafTTTa9IqvLBG8ipp80B6yGTqKd31_YSmcsNmTXkKImumNMtkt_r3HfmgMo30dGpAQcuXfHd1FRPScTykF97Ucw=w640-h400-e365-rj-sc0x00ffffff">
 
 The settings modal provides 5 key customization options: Themes, Font, Font Size, Tab Size, and Soft Wrap. I wont list all their respective options here as to save space, but they are pretty self-explanatory. These settings were chosen to add a tweakability aspect to Quantum while still incorporating this idea of simplicity that we eagerly strive for.
 
@@ -25,7 +25,7 @@ A more detailed description of the themes and fonts available in Quantum are lis
 
 #### Themes
 
-<img src="https://dl2.pushbulletusercontent.com/bpQyDTkHhJRaDnLYze5mMrhZvDOUmv6h/themes.png">
+<img src="https://lh3.googleusercontent.com/Yz6Cbt8NHn7r-aPEYfFfJ_nN-hji1IgchiQ9dpdgIkg_J7opo_L5mrm4v7uiM_kaJNvP0Jm2KHinrsxCn8Hve9hjGA=w640-h400-e365-rj-sc0x00ffffff">
 As with any editor, themes are a crucial part of a user's experience, so when designing Quantum, this was taken into account. Quantum comes with 8 distinctive themes that are sure to appeal to a number of users.
 
 - Birds of Paradise
